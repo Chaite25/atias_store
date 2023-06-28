@@ -235,11 +235,12 @@ img {
     margin: 20px 0;
 }
 
-.pro-title > h2 {
-    font-size: 24px;
-    margin: 0;
-    font-family: 'Raleway', sans-serif;
-    font-weight: bold;
+.pro-title > h2 span {
+	font-size: 24px;
+	margin: 0;
+	font-family: 'Raleway', sans-serif !important;
+	font-weight: bold !important;
+	color: #fff !important;
 }
 
 /*  ================================
