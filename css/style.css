@@ -242,6 +242,9 @@ img {
 	font-weight: bold !important;
 	color: #fff !important;
 }
+.pro-title h2 br {
+	display: none;
+}
 
 /*  ================================
         product title area end
